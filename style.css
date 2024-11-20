@@ -13,7 +13,7 @@
     background-color: black;
     color: aliceblue;
     width: 83%;
-    padding: 14px;
+    padding: 10px;
  }
  .campos {
     font-weight: bold;
@@ -21,7 +21,7 @@
     background-color: chartreuse;
  }
  .botoes {
-    padding: 14px;
+    padding: 10px;
     background-color: gray;
     text-align: center;
     justify-content: center;
