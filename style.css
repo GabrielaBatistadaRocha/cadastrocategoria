@@ -19,7 +19,7 @@
     font-weight: bold;
     padding: auto;
  }
- .botoes input[type="submit"]{
+ .botoes input{
     background-color: gray;
     text-align: center;
     justify-content: center;
