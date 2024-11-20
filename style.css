@@ -19,6 +19,7 @@
     font-weight: bold;
     padding: 10px;
     background-color: chartreuse;
+    width: auto;
  }
  .botoes {
     background-color: gray;
