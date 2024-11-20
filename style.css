@@ -17,14 +17,14 @@
     width: 15%;
  }
  .parte1{
-    background-color: rgb(216, 213, 213);
+    background-color: rgb(156, 156, 156);
    text-align: center;
    justify-content: center;
    align-items: center;
-   width: 10%;
+   width: 8%;
  }
 .parte2{
-    background-color: gray;
+    background-color: rgb(156, 156, 156);
     text-align: center;
     width: 15%;
 }
