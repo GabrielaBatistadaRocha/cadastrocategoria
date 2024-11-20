@@ -21,8 +21,10 @@
    text-align: center;
    justify-content: center;
    align-items: center;
+   width: 10%;
  }
 .parte2{
     background-color: gray;
-   text-align: center;
+    text-align: center;
+    width: 15%;
 }
