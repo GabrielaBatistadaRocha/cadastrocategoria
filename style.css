@@ -24,5 +24,8 @@
     text-align: center;
     justify-content: center;
     align-items: center;
-    width: 30%;
  } 
+.consultar{
+    width: 10%;
+    padding: 10px;
+}
