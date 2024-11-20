@@ -15,7 +15,7 @@
     width: 83%;
     padding: 14px;
  }
- .campos label, .campos input{
+ .campos {
     font-weight: bold;
     padding: auto;
     background-color: chartreuse;
