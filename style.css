@@ -22,9 +22,11 @@
    justify-content: center;
    align-items: center;
    width: 8%;
+   padding: 10px;
  }
 .parte2{
     background-color: rgb(156, 156, 156);
     text-align: center;
     width: 15%;
+    padding: 10px;
 }
