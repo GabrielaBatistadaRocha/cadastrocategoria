@@ -1,0 +1,27 @@
+.espet{
+    background-color: blue;
+    width: 20%;
+    padding: 20px;
+    color: aliceblue;
+ }
+ .menu{
+    background-color: aqua;
+    width: 20%;
+    padding: 10px;
+ }  
+ .cadastro{
+    background-color: black;
+    color: aliceblue;
+    width: 83%;
+    padding: 14px;
+ }
+ .campos{
+    font-weight: bold;
+    padding: auto;
+ }
+ .botoes{
+    background-color: gray;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+ } 
