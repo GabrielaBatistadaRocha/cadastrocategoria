@@ -15,17 +15,13 @@
     width: 83%;
     padding: 14px;
  }
- .campos{
+ .campos label, .campos input{
     font-weight: bold;
     padding: auto;
  }
- .botoes{
+ .botoes input[type="submit"]{
     background-color: gray;
     text-align: center;
     justify-content: center;
     align-items: center;
  } 
-.consultar{
-    width: 10%;
-    padding: 10px;
-}
