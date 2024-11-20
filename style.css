@@ -17,11 +17,11 @@
  }
  .campos {
     font-weight: bold;
-    padding: 10px;
+    padding: 20px;
     background-color: chartreuse;
-    width: 83%;
  }
  .botoes {
+    padding: 14px;
     background-color: gray;
     text-align: center;
     justify-content: center;
