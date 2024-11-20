@@ -18,6 +18,7 @@
  .campos label, .campos input{
     font-weight: bold;
     padding: auto;
+    background-color: chartreuse;
  }
  .botoes {
     background-color: gray;
